@@ -1,12 +1,22 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #   << module name >>
-#   Eric Janusson
+#   ⌬ Eric Janusson
 #   Python 3.9
+#   refs:
+
+# Description: 
+'''
+[summary]
+
+Returns:
+    [type]: [description]
+'''
 
 import os
 import sys
 # EX: import module as mod
+
 # x = mod.function_in_module()
 
 # constants
