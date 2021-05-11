@@ -4,6 +4,7 @@ examples/
 backup/
 
 #Working Files
+*.pdf
 *.exe
 *.txt
 *.bat
